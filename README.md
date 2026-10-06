@@ -1,2 +1,2 @@
-# aqa-practic-new
+# aqa-practic
 aqa-practic-new
