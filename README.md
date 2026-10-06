@@ -1,2 +1,2 @@
 # aqa-practic
-aqa-practic-new
+aqa-practic
